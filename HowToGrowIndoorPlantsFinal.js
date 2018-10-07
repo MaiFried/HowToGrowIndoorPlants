@@ -122,7 +122,7 @@ function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
 	this.shape_1.graphics.f("#000000").s().p("AhIAxIAAhhICQAAIAABhg");
 	this.shape_1.setTransform(0.8,0.3);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text,p:{font:"14px 'Rubik'",lineHeight:19.55}}]}).to({state:[{t:this.text,p:{font:"14px 'Rubik Medium'",lineHeight:19.55}}]},1).to({state:[{t:this.text,p:{font:"14px 'Rubik Medium'",lineHeight:19.55}}]},1).to({state:[{t:this.shape_1},{t:this.shape},{t:this.text,p:{font:"12px 'Rubik'",lineHeight:17.05}}]},1).wait(1));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text,p:{font:"14px 'Rubik'",lineHeight:19.55}}]}).to({state:[{t:this.text,p:{font:"bold 14px 'Rubik'",lineHeight:19.55}}]},1).to({state:[{t:this.text,p:{font:"bold 14px 'Rubik'",lineHeight:19.55}}]},1).to({state:[{t:this.shape_1},{t:this.shape},{t:this.text,p:{font:"12px 'Rubik'",lineHeight:17.05}}]},1).wait(1));
 
 }).prototype = p = new cjs.MovieClip();
 p.nominalBounds = new cjs.Rectangle(-24.6,-9.5,49.2,21.6);
@@ -6258,7 +6258,7 @@ p.nominalBounds = new cjs.Rectangle(-109.1,-36.7,218.3,73.5);
 	this.shape.graphics.f("#000000").s().p("AijBRIAAihIFHAAIAAChg");
 	this.shape.setTransform(3.4,-48.8);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text,p:{font:"14px 'Rubik'"}}]}).to({state:[{t:this.text,p:{font:"14px 'Rubik Medium'"}}]},1).to({state:[{t:this.text,p:{font:"14px 'Rubik Medium'"}}]},1).to({state:[{t:this.shape},{t:this.text,p:{font:"bold 14px 'Rubik'"}}]},1).wait(1));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text,p:{font:"14px 'Rubik'"}}]}).to({state:[{t:this.text,p:{font:"bold 14px 'Rubik'"}}]},1).to({state:[{t:this.text,p:{font:"bold 14px 'Rubik'"}}]},1).to({state:[{t:this.shape},{t:this.text,p:{font:"bold 14px 'Rubik'"}}]},1).wait(1));
 
 }).prototype = p = new cjs.MovieClip();
 p.nominalBounds = new cjs.Rectangle(-21.3,-60.3,49.2,21.6);
@@ -6283,7 +6283,7 @@ p.nominalBounds = new cjs.Rectangle(-21.3,-60.3,49.2,21.6);
 	this.shape_1.graphics.f("#000000").s().p("AiiAuIAAhbIFEAAIAABbg");
 	this.shape_1.setTransform(0.1,0.1);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text,p:{font:"14px 'Rubik'",lineHeight:19.55}}]}).to({state:[{t:this.text,p:{font:"14px 'Rubik Medium'",lineHeight:19.55}}]},1).to({state:[{t:this.text,p:{font:"14px 'Rubik Medium'",lineHeight:19.55}}]},1).to({state:[{t:this.shape_1},{t:this.shape},{t:this.text,p:{font:"12px 'Rubik'",lineHeight:17.05}}]},1).wait(1));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text,p:{font:"14px 'Rubik'",lineHeight:19.55}}]}).to({state:[{t:this.text,p:{font:"bold 14px 'Rubik'",lineHeight:19.55}}]},1).to({state:[{t:this.text,p:{font:"bold 14px 'Rubik'",lineHeight:19.55}}]},1).to({state:[{t:this.shape_1},{t:this.shape},{t:this.text,p:{font:"12px 'Rubik'",lineHeight:17.05}}]},1).wait(1));
 
 }).prototype = p = new cjs.MovieClip();
 p.nominalBounds = new cjs.Rectangle(-24.6,-9.5,49.2,21.6);
@@ -6304,7 +6304,7 @@ p.nominalBounds = new cjs.Rectangle(-24.6,-9.5,49.2,21.6);
 	this.shape.graphics.f("#000000").s().p("AikBGIAAiLIFIAAIAACLg");
 	this.shape.setTransform(0.2,0.5);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text,p:{font:"14px 'Rubik'",lineHeight:19.55}}]}).to({state:[{t:this.text,p:{font:"14px 'Rubik Medium'",lineHeight:19.55}}]},1).to({state:[{t:this.text,p:{font:"14px 'Rubik Medium'",lineHeight:19.55}}]},1).to({state:[{t:this.shape},{t:this.text,p:{font:"12px 'Rubik'",lineHeight:17.05}}]},1).wait(1));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text,p:{font:"14px 'Rubik'",lineHeight:19.55}}]}).to({state:[{t:this.text,p:{font:"bold 14px 'Rubik'",lineHeight:19.55}}]},1).to({state:[{t:this.text,p:{font:"bold 14px 'Rubik'",lineHeight:19.55}}]},1).to({state:[{t:this.shape},{t:this.text,p:{font:"12px 'Rubik'",lineHeight:17.05}}]},1).wait(1));
 
 }).prototype = p = new cjs.MovieClip();
 p.nominalBounds = new cjs.Rectangle(-24.6,-9.5,49.2,21.6);
@@ -6329,7 +6329,7 @@ p.nominalBounds = new cjs.Rectangle(-24.6,-9.5,49.2,21.6);
 	this.shape_1.graphics.f("#000000").s().p("Ah0A4IAAhvIDpAAIAABvg");
 	this.shape_1.setTransform(-0.5,0.5);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text,p:{font:"14px 'Rubik'",lineHeight:19.55}}]}).to({state:[{t:this.text,p:{font:"14px 'Rubik Medium'",lineHeight:19.55}}]},1).to({state:[{t:this.text,p:{font:"14px 'Rubik Medium'",lineHeight:19.55}}]},1).to({state:[{t:this.shape_1},{t:this.shape},{t:this.text,p:{font:"12px 'Rubik'",lineHeight:17.05}}]},1).wait(1));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text,p:{font:"14px 'Rubik'",lineHeight:19.55}}]}).to({state:[{t:this.text,p:{font:"bold 14px 'Rubik'",lineHeight:19.55}}]},1).to({state:[{t:this.text,p:{font:"bold 14px 'Rubik'",lineHeight:19.55}}]},1).to({state:[{t:this.shape_1},{t:this.shape},{t:this.text,p:{font:"12px 'Rubik'",lineHeight:17.05}}]},1).wait(1));
 
 }).prototype = p = new cjs.MovieClip();
 p.nominalBounds = new cjs.Rectangle(-24.6,-9.5,49.2,21.6);
@@ -6354,7 +6354,7 @@ p.nominalBounds = new cjs.Rectangle(-24.6,-9.5,49.2,21.6);
 	this.shape_1.graphics.f("#000000").s().p("AilAvIAAhdIFKAAIAABdg");
 	this.shape_1.setTransform(-0.2,-0.2);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text,p:{font:"14px 'Rubik'",lineHeight:19.55}}]}).to({state:[{t:this.text,p:{font:"14px 'Rubik Medium'",lineHeight:19.55}}]},1).to({state:[{t:this.text,p:{font:"14px 'Rubik Medium'",lineHeight:19.55}}]},1).to({state:[{t:this.shape_1},{t:this.shape},{t:this.text,p:{font:"12px 'Rubik'",lineHeight:17.05}}]},1).wait(1));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text,p:{font:"14px 'Rubik'",lineHeight:19.55}}]}).to({state:[{t:this.text,p:{font:"bold 14px 'Rubik'",lineHeight:19.55}}]},1).to({state:[{t:this.text,p:{font:"bold 14px 'Rubik'",lineHeight:19.55}}]},1).to({state:[{t:this.shape_1},{t:this.shape},{t:this.text,p:{font:"12px 'Rubik'",lineHeight:17.05}}]},1).wait(1));
 
 }).prototype = p = new cjs.MovieClip();
 p.nominalBounds = new cjs.Rectangle(-24.6,-9.5,49.2,21.6);
@@ -6375,7 +6375,7 @@ p.nominalBounds = new cjs.Rectangle(-24.6,-9.5,49.2,21.6);
 	this.shape.graphics.f("#000000").s().p("AiWA+IAAh7IEtAAIAAB7g");
 	this.shape.setTransform(-0.3,0.7);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text,p:{font:"14px 'Rubik'",lineHeight:19.55}}]}).to({state:[{t:this.text,p:{font:"14px 'Rubik Medium'",lineHeight:19.55}}]},1).to({state:[{t:this.text,p:{font:"14px 'Rubik Medium'",lineHeight:19.55}}]},1).to({state:[{t:this.shape},{t:this.text,p:{font:"12px 'Rubik'",lineHeight:17.05}}]},1).wait(1));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text,p:{font:"14px 'Rubik'",lineHeight:19.55}}]}).to({state:[{t:this.text,p:{font:"bold 14px 'Rubik'",lineHeight:19.55}}]},1).to({state:[{t:this.text,p:{font:"bold 14px 'Rubik'",lineHeight:19.55}}]},1).to({state:[{t:this.shape},{t:this.text,p:{font:"12px 'Rubik'",lineHeight:17.05}}]},1).wait(1));
 
 }).prototype = p = new cjs.MovieClip();
 p.nominalBounds = new cjs.Rectangle(-24.6,-9.5,49.2,21.6);
@@ -6400,7 +6400,7 @@ p.nominalBounds = new cjs.Rectangle(-24.6,-9.5,49.2,21.6);
 	this.shape_1.graphics.f("#000000").s().p("Ah4A0IAAhnIDxAAIAABng");
 	this.shape_1.setTransform(0.3,0.5);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text,p:{font:"14px 'Rubik'",lineHeight:19.55}}]}).to({state:[{t:this.text,p:{font:"14px 'Rubik Medium'",lineHeight:19.55}}]},1).to({state:[{t:this.text,p:{font:"14px 'Rubik Medium'",lineHeight:19.55}}]},1).to({state:[{t:this.shape_1},{t:this.shape},{t:this.text,p:{font:"12px 'Rubik'",lineHeight:17.05}}]},1).wait(1));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text,p:{font:"14px 'Rubik'",lineHeight:19.55}}]}).to({state:[{t:this.text,p:{font:"bold 14px 'Rubik'",lineHeight:19.55}}]},1).to({state:[{t:this.text,p:{font:"bold 14px 'Rubik'",lineHeight:19.55}}]},1).to({state:[{t:this.shape_1},{t:this.shape},{t:this.text,p:{font:"12px 'Rubik'",lineHeight:17.05}}]},1).wait(1));
 
 }).prototype = p = new cjs.MovieClip();
 p.nominalBounds = new cjs.Rectangle(-24.6,-9.5,49.2,21.6);
@@ -13090,7 +13090,8 @@ p.nominalBounds = new cjs.Rectangle(-204.9,-172.7,409.6,346.2);
 		  2. Shared Functions
 		  3. Plants 
 		  4. Filters 
-		  5. Icons*/
+		  5. Icons
+		  6. TEXT */
 		
 		/*======================================== */
 		/* 1. MAIN & Event Listeners
@@ -13116,8 +13117,6 @@ p.nominalBounds = new cjs.Rectangle(-204.9,-172.7,409.6,346.2);
 		
 		self.stop(0);
 		stage.enableMouseOver(24);
-		
-		self.instructions.text = "עברו על כל צמח וגלו את התנאים הנדרשים לגידולו \n לסינון העדפות אישיות הקליקו על התנאים המועדפים";
 		
 		turnOffBoldFilters();
 		self.resetBTN.visible = false;
@@ -14214,6 +14213,14 @@ p.nominalBounds = new cjs.Rectangle(-204.9,-172.7,409.6,346.2);
 		function floralMouseOut() {
 		    self.floral.gotoAndStop(0);
 		}
+		
+		/* TEXT
+		======================================== */
+		self.instructions.text = "עברו על כל צמח וגלו את התנאים הנדרשים לגידולו \n לסינון העדפות אישיות הקליקו על התנאים המועדפים";
+		self.floralTXT.text = "פ ר י ח ה";
+		self.waterTXT.text = "ה ש ק י י ה";
+		self.toxicTXT.text = "ר ע י ל ו ת";
+		self.cleanTXT.text = "טיהור אוויר";
 	}
 
 	// actions tween:
@@ -14425,7 +14432,7 @@ p.nominalBounds = new cjs.Rectangle(-204.9,-172.7,409.6,346.2);
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.floralTXT},{t:this.waterTXT},{t:this.toxicTXT},{t:this.cleanTXT}]}).wait(1));
 
 	// boldFiltersTXT
-	this.highCleanTXTbold = new cjs.Text("גבוה", "14px 'Rubik Medium'");
+	this.highCleanTXTbold = new cjs.Text("גבוה", "bold 14px 'Rubik'");
 	this.highCleanTXTbold.name = "highCleanTXTbold";
 	this.highCleanTXTbold.textAlign = "center";
 	this.highCleanTXTbold.lineHeight = 20;
@@ -14433,7 +14440,7 @@ p.nominalBounds = new cjs.Rectangle(-204.9,-172.7,409.6,346.2);
 	this.highCleanTXTbold.parent = this;
 	this.highCleanTXTbold.setTransform(118.3,189.7);
 
-	this.lowCleanTXTbold = new cjs.Text("נמוך", "14px 'Rubik Medium'");
+	this.lowCleanTXTbold = new cjs.Text("נמוך", "bold 14px 'Rubik'");
 	this.lowCleanTXTbold.name = "lowCleanTXTbold";
 	this.lowCleanTXTbold.textAlign = "center";
 	this.lowCleanTXTbold.lineHeight = 20;
@@ -14441,15 +14448,15 @@ p.nominalBounds = new cjs.Rectangle(-204.9,-172.7,409.6,346.2);
 	this.lowCleanTXTbold.parent = this;
 	this.lowCleanTXTbold.setTransform(118.3,169.4);
 
-	this.highToxicTXTbold = new cjs.Text("גבוהה", "14px 'Rubik Medium'");
+	this.highToxicTXTbold = new cjs.Text("גבוהה", "bold 14px 'Rubik'");
 	this.highToxicTXTbold.name = "highToxicTXTbold";
 	this.highToxicTXTbold.textAlign = "center";
 	this.highToxicTXTbold.lineHeight = 20;
 	this.highToxicTXTbold.lineWidth = 45;
 	this.highToxicTXTbold.parent = this;
-	this.highToxicTXTbold.setTransform(247.7,189.7);
+	this.highToxicTXTbold.setTransform(247.8,189.7);
 
-	this.lowToxicTXTbold = new cjs.Text("נמוכה", "14px 'Rubik Medium'");
+	this.lowToxicTXTbold = new cjs.Text("נמוכה", "bold 14px 'Rubik'");
 	this.lowToxicTXTbold.name = "lowToxicTXTbold";
 	this.lowToxicTXTbold.textAlign = "center";
 	this.lowToxicTXTbold.lineHeight = 20;
@@ -14457,7 +14464,7 @@ p.nominalBounds = new cjs.Rectangle(-204.9,-172.7,409.6,346.2);
 	this.lowToxicTXTbold.parent = this;
 	this.lowToxicTXTbold.setTransform(247.7,169.4);
 
-	this.highWaterTXTbold = new cjs.Text("מרובה", "14px 'Rubik Medium'");
+	this.highWaterTXTbold = new cjs.Text("מרובה", "bold 14px 'Rubik'");
 	this.highWaterTXTbold.name = "highWaterTXTbold";
 	this.highWaterTXTbold.textAlign = "center";
 	this.highWaterTXTbold.lineHeight = 20;
@@ -14465,7 +14472,7 @@ p.nominalBounds = new cjs.Rectangle(-204.9,-172.7,409.6,346.2);
 	this.highWaterTXTbold.parent = this;
 	this.highWaterTXTbold.setTransform(381.6,189.6);
 
-	this.lowWaterTXTbold = new cjs.Text("מועטה", "14px 'Rubik Medium'");
+	this.lowWaterTXTbold = new cjs.Text("מועטה", "bold 14px 'Rubik'");
 	this.lowWaterTXTbold.name = "lowWaterTXTbold";
 	this.lowWaterTXTbold.textAlign = "center";
 	this.lowWaterTXTbold.lineHeight = 20;
@@ -14473,33 +14480,33 @@ p.nominalBounds = new cjs.Rectangle(-204.9,-172.7,409.6,346.2);
 	this.lowWaterTXTbold.parent = this;
 	this.lowWaterTXTbold.setTransform(381.6,169.5);
 
-	this.yesFloralTXTbold = new cjs.Text("יש", "14px 'Rubik Medium'");
+	this.yesFloralTXTbold = new cjs.Text("יש", "bold 14px 'Rubik'");
 	this.yesFloralTXTbold.name = "yesFloralTXTbold";
 	this.yesFloralTXTbold.textAlign = "center";
 	this.yesFloralTXTbold.lineHeight = 20;
 	this.yesFloralTXTbold.lineWidth = 45;
 	this.yesFloralTXTbold.parent = this;
-	this.yesFloralTXTbold.setTransform(505,189.6);
+	this.yesFloralTXTbold.setTransform(504.9,189.6);
 
-	this.noFloralTXTbold = new cjs.Text("אין", "14px 'Rubik Medium'");
+	this.noFloralTXTbold = new cjs.Text("אין", "bold 14px 'Rubik'");
 	this.noFloralTXTbold.name = "noFloralTXTbold";
 	this.noFloralTXTbold.textAlign = "center";
 	this.noFloralTXTbold.lineHeight = 20;
 	this.noFloralTXTbold.lineWidth = 45;
 	this.noFloralTXTbold.parent = this;
-	this.noFloralTXTbold.setTransform(505,169.4);
+	this.noFloralTXTbold.setTransform(504.9,169.4);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.noFloralTXTbold},{t:this.yesFloralTXTbold},{t:this.lowWaterTXTbold},{t:this.highWaterTXTbold},{t:this.lowToxicTXTbold},{t:this.highToxicTXTbold},{t:this.lowCleanTXTbold},{t:this.highCleanTXTbold}]}).wait(1));
 
 	// filtersBTN
 	this.noFloralBTN = new lib.noFloralBTN();
 	this.noFloralBTN.parent = this;
-	this.noFloralBTN.setTransform(501.7,227.7);
+	this.noFloralBTN.setTransform(501.8,227.7);
 	new cjs.ButtonHelper(this.noFloralBTN, 0, 1, 2, false, new lib.noFloralBTN(), 3);
 
 	this.yesFloralBTN = new lib.yesFloralBTN();
 	this.yesFloralBTN.parent = this;
-	this.yesFloralBTN.setTransform(505,197.2);
+	this.yesFloralBTN.setTransform(505.1,197.2);
 	new cjs.ButtonHelper(this.yesFloralBTN, 0, 1, 2, false, new lib.yesFloralBTN(), 3);
 
 	this.lowWaterBTN = new lib.lessWaterBTN();
@@ -14509,7 +14516,7 @@ p.nominalBounds = new cjs.Rectangle(-204.9,-172.7,409.6,346.2);
 
 	this.lowToxicBTN = new lib.lowToxicBTN();
 	this.lowToxicBTN.parent = this;
-	this.lowToxicBTN.setTransform(247.7,176.9);
+	this.lowToxicBTN.setTransform(247.8,176.9);
 	new cjs.ButtonHelper(this.lowToxicBTN, 0, 1, 2, false, new lib.lowToxicBTN(), 3);
 
 	this.lowCleanBTN = new lib.lowBTN();
@@ -14524,7 +14531,7 @@ p.nominalBounds = new cjs.Rectangle(-204.9,-172.7,409.6,346.2);
 
 	this.highToxicBTN = new lib.highToxicBTN();
 	this.highToxicBTN.parent = this;
-	this.highToxicBTN.setTransform(247.7,197.2);
+	this.highToxicBTN.setTransform(247.8,197.2);
 	new cjs.ButtonHelper(this.highToxicBTN, 0, 1, 2, false, new lib.highToxicBTN(), 3);
 
 	this.highWaterBTN = new lib.moreWaterBTN();
@@ -14615,7 +14622,7 @@ lib.properties = {
 	color: "#D6D6D6",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/HowToGrowIndoorPlantsFinal_atlas_.png?1538947234706", id:"HowToGrowIndoorPlantsFinal_atlas_"}
+		{src:"images/HowToGrowIndoorPlantsFinal_atlas_.png?1538947655046", id:"HowToGrowIndoorPlantsFinal_atlas_"}
 	],
 	preloads: []
 };
